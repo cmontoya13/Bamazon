@@ -1,0 +1,2 @@
+# Bamazon
+CLI app
